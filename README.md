@@ -74,7 +74,7 @@ Primero revisamos las reglas de movimiento y captura, incluyendo casos especiale
 
 También ejecutamos una prueba con 20 jugadores y un máximo de dos partidas simultáneas. En esa ejecución se completaron las 10 partidas y no se registraron errores del torneo.
 
-Para revisar la memoria utilizamos Valgrind Memcheck, que no detectó errores ni memoria pendiente de liberar. Además, utilizamos Helgrind y ThreadSanitizer para analizar posibles problemas de sincronización.
+Para revisar el uso de memoria, utilizamos Valgrind Memcheck, una herramienta que permite detectar errores en la gestión de memoria y posibles fugas. Durante las pruebas no se encontraron errores ni memoria pendiente de liberar. Además, utilizamos Helgrind y ThreadSanitizer para analizar posibles problemas de concurrencia y sincronización entre los hilos del programa. Helgrind detectó una advertencia relacionada con la creación de hilos, mientras que ThreadSanitizer no reportó condiciones de carrera durante la ejecución analizada.
 
 Helgrind mostró una advertencia durante la creación de hilos, mientras que ThreadSanitizer no reportó condiciones de carrera en la ejecución realizada.
 
