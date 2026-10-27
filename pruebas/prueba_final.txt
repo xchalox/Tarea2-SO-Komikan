@@ -1,0 +1,1422 @@
+Retardos: 50 a 300 ms | Seed: 1234
+Jugadores: 20 | Maximo mesas: 2
+Llego jugador 8
+Llego jugador 7
+Pareja formada: 8 y 7
+Partida 1 comienza (Puma: jugador 8, Perros: jugador 7)
+Llego jugador 1
+Llego jugador 10
+Pareja formada: 1 y 10
+Partida 2 comienza (Puma: jugador 1, Perros: jugador 10)
+Llego jugador 14
+Llego jugador 5
+Pareja formada: 14 y 5
+Llego jugador 13
+Llego jugador 4
+Pareja formada: 13 y 4
+Llego jugador 16
+Llego jugador 15
+Pareja formada: 16 y 15
+Llego jugador 9
+Llego jugador 12
+Pareja formada: 9 y 12
+Llego jugador 18
+Llego jugador 2
+Pareja formada: 18 y 2
+Llego jugador 20
+Llego jugador 6
+Pareja formada: 20 y 6
+Llego jugador 17
+Llego jugador 11
+Pareja formada: 17 y 11
+Llego jugador 3
+Llego jugador 19
+Pareja formada: 3 y 19
+
+Partida 2 - tablero
+        .           
+    .       D       
+.   .   .   P   .   
+D   .   .   .   D   
+.   D   .   D   .   
+D   .   D   D   .   
+.   D   D   D   D   
+Capturas: 0 | Movimientos: 30
+
+Partida 1 - tablero
+        .           
+    .       .       
+D   .   P   .   D   
+.   .   .   .   .   
+D   D   .   D   D   
+D   .   .   .   D   
+.   D   D   D   D   
+Capturas: 0 | Movimientos: 30
+
+Partida 2 - tablero
+        .           
+    .       D       
+.   P   .   D   .   
+.   .   .   D   .   
+D   D   D   .   .   
+.   D   D   .   D   
+D   .   D   D   .   
+Capturas: 0 | Movimientos: 60
+
+Partida 1 - tablero
+        .           
+    D       .       
+.   D   .   .   D   
+P   .   .   .   .   
+D   D   .   .   .   
+D   D   D   D   D   
+.   .   D   D   .   
+Capturas: 0 | Movimientos: 60
+
+Partida 2 - tablero
+        D           
+    .       .       
+.   .   .   .   P   
+D   .   .   .   D   
+.   D   D   D   .   
+.   D   D   .   D   
+D   .   D   .   .   
+Capturas: 1 | Movimientos: 90
+
+Partida 1 - tablero
+        .           
+    .       D       
+D   D   .   .   .   
+.   .   .   .   D   
+P   .   .   D   .   
+D   D   D   D   D   
+D   .   .   D   .   
+Capturas: 0 | Movimientos: 90
+
+Partida 2 - tablero
+        D           
+    D       .       
+.   D   .   .   .   
+.   .   .   D   .   
+.   D   .   P   .   
+.   .   D   D   .   
+D   .   .   D   D   
+Capturas: 2 | Movimientos: 120
+
+Partida 1 - tablero
+        .           
+    .       .       
+.   D   .   .   D   
+.   D   D   .   .   
+.   P   .   D   D   
+D   D   D   .   .   
+.   D   .   D   D   
+Capturas: 0 | Movimientos: 120
+
+Partida 2 - tablero
+        .           
+    .       D       
+D   D   .   .   .   
+.   D   D   .   .   
+.   .   D   .   .   
+.   .   P   .   D   
+D   .   D   .   .   
+Capturas: 3 | Movimientos: 150
+
+Partida 1 - tablero
+        .           
+    D       .       
+.   .   .   D   D   
+.   D   .   .   D   
+D   .   D   .   .   
+.   D   .   D   .   
+D   .   P   .   D   
+Capturas: 1 | Movimientos: 150
+
+Partida 1 - tablero
+        D           
+    D       .       
+.   .   D   .   D   
+D   .   D   .   D   
+.   .   P   .   .   
+.   .   .   .   D   
+.   D   .   D   .   
+Capturas: 2 | Movimientos: 180
+
+Partida 2 - tablero
+        .           
+    .       D       
+D   .   D   .   D   
+.   D   .   .   .   
+.   D   D   .   .   
+.   .   .   .   .   
+D   .   P   .   D   
+Capturas: 3 | Movimientos: 180
+
+Partida 1 - tablero
+        .           
+    .       .       
+D   .   D   D   .   
+.   D   D   D   .   
+.   .   .   D   .   
+P   .   .   .   .   
+D   .   .   D   D   
+Capturas: 2 | Movimientos: 210
+
+Partida 2 - tablero
+        D           
+    .       .       
+D   .   D   D   D   
+.   D   .   .   .   
+.   .   D   .   .   
+.   .   .   P   .   
+D   .   .   .   .   
+Capturas: 4 | Movimientos: 210
+
+Partida 1 - tablero
+        D           
+    .       D       
+.   D   .   .   .   
+.   .   D   D   .   
+P   .   D   .   .   
+.   D   .   D   D   
+D   .   .   .   .   
+Capturas: 2 | Movimientos: 240
+
+Partida 2 - tablero
+        .           
+    D       .       
+.   D   .   D   .   
+.   D   .   .   D   
+D   .   .   .   .   
+.   D   D   .   P   
+.   .   .   .   .   
+Capturas: 4 | Movimientos: 240
+
+Partida 1 - tablero
+        .           
+    .       D       
+.   D   .   .   .   
+P   D   D   D   .   
+.   .   .   D   .   
+D   .   .   D   D   
+.   D   .   .   .   
+Capturas: 2 | Movimientos: 270
+
+Partida 2 - tablero
+        .           
+    .       .       
+.   .   D   D   .   
+D   .   .   .   D   
+D   D   D   .   .   
+.   D   .   .   P   
+.   .   .   .   .   
+Capturas: 4 | Movimientos: 270
+
+Partida 1 - tablero
+        .           
+    D       .       
+.   .   .   .   D   
+D   .   D   .   .   
+.   D   D   D   .   
+P   .   D   .   .   
+.   .   .   .   D   
+Capturas: 3 | Movimientos: 300
+
+Partida 2 - tablero
+        .           
+    D       .       
+D   D   .   .   .   
+.   D   D   .   .   
+.   D   .   .   D   
+.   .   D   .   .   
+.   .   .   .   P   
+Capturas: 4 | Movimientos: 300
+
+Partida 1 - tablero
+        .           
+    D       .       
+D   .   .   D   .   
+.   D   .   D   D   
+D   .   .   .   D   
+.   .   .   .   .   
+P   D   .   .   .   
+Capturas: 3 | Movimientos: 330
+
+Partida 2 - tablero
+        .           
+    .       .       
+.   .   .   D   D   
+.   D   .   D   .   
+.   .   D   .   .   
+.   D   D   .   .   
+.   .   P   .   .   
+Capturas: 5 | Movimientos: 330
+
+Partida 1 - tablero
+        .           
+    .       .       
+.   .   .   D   .   
+.   D   D   .   D   
+D   .   .   P   D   
+.   .   D   .   .   
+.   .   .   .   .   
+Capturas: 5 | Movimientos: 360
+
+Partida 2 - tablero
+        .           
+    .       .       
+.   .   .   D   .   
+.   D   D   D   .   
+.   D   .   .   .   
+D   .   .   D   .   
+.   .   .   .   P   
+Capturas: 5 | Movimientos: 360
+
+Partida 1 - tablero
+        .           
+    .       .       
+.   .   .   .   D   
+.   D   .   D   .   
+.   .   .   .   .   
+D   D   .   D   P   
+.   .   .   D   .   
+Capturas: 5 | Movimientos: 390
+
+Partida 2 - tablero
+        .           
+    .       D       
+.   .   .   .   D   
+.   .   .   .   .   
+.   .   .   D   D   
+D   D   .   .   .   
+.   .   D   .   P   
+Capturas: 5 | Movimientos: 390
+Partida 1: gana Puma, jugador 8 | Capturas: 6 | Movimientos: 413
+Partida 3 comienza (Puma: jugador 14, Perros: jugador 5)
+Partida 2: gana Puma, jugador 1 | Capturas: 6 | Movimientos: 412
+Partida 4 comienza (Puma: jugador 13, Perros: jugador 4)
+
+Partida 3 - tablero
+        .           
+    .       .       
+.   P   D   .   .   
+D   .   .   .   D   
+.   .   D   .   D   
+D   .   D   .   D   
+.   D   D   D   D   
+Capturas: 0 | Movimientos: 30
+
+Partida 4 - tablero
+        .           
+    .       .       
+P   .   D   .   D   
+D   .   .   .   .   
+D   D   D   D   D   
+.   D   .   .   .   
+.   D   D   D   .   
+Capturas: 0 | Movimientos: 30
+
+Partida 3 - tablero
+        .           
+    .       D       
+D   .   D   .   .   
+D   .   D   D   D   
+.   P   .   D   .   
+.   .   D   .   D   
+.   D   .   .   D   
+Capturas: 0 | Movimientos: 60
+
+Partida 3 - tablero
+        D           
+    .       D       
+D   D   .   D   .   
+.   .   .   D   .   
+.   .   P   .   D   
+D   D   .   D   .   
+D   .   .   .   D   
+Capturas: 0 | Movimientos: 90
+
+Partida 4 - tablero
+        .           
+    .       .       
+.   .   .   D   D   
+.   P   .   .   .   
+D   D   D   D   D   
+.   D   .   D   D   
+D   .   .   .   .   
+Capturas: 1 | Movimientos: 60
+
+Partida 3 - tablero
+        D           
+    .       D       
+.   .   D   D   D   
+.   .   .   D   D   
+D   .   D   .   .   
+.   .   .   .   .   
+D   D   P   .   D   
+Capturas: 0 | Movimientos: 120
+
+Partida 4 - tablero
+        .           
+    .       D       
+.   .   .   D   D   
+D   .   D   .   .   
+D   P   .   .   D   
+.   .   D   .   .   
+.   .   D   D   D   
+Capturas: 1 | Movimientos: 90
+
+Partida 3 - tablero
+        D           
+    .       .       
+.   D   .   D   D   
+.   .   .   D   .   
+.   D   D   .   .   
+P   D   .   D   D   
+.   .   .   .   D   
+Capturas: 1 | Movimientos: 150
+
+Partida 4 - tablero
+        D           
+    D       .       
+.   .   .   D   .   
+D   .   .   D   .   
+.   .   D   D   D   
+D   .   P   D   D   
+.   .   .   .   .   
+Capturas: 1 | Movimientos: 120
+
+Partida 3 - tablero
+        .           
+    .       D       
+D   D   .   D   .   
+P   .   D   D   .   
+.   D   .   .   .   
+.   .   .   D   D   
+.   .   .   .   D   
+Capturas: 2 | Movimientos: 180
+
+Partida 4 - tablero
+        .           
+    D       .       
+.   .   D   .   D   
+.   .   D   D   D   
+D   .   .   .   .   
+D   .   .   .   D   
+.   .   P   .   D   
+Capturas: 2 | Movimientos: 150
+
+Partida 3 - tablero
+        D           
+    .       .       
+.   D   D   .   D   
+.   .   .   D   .   
+.   .   .   D   D   
+P   .   .   D   .   
+.   D   D   .   .   
+Capturas: 2 | Movimientos: 210
+
+Partida 4 - tablero
+        .           
+    .       .       
+D   D   .   .   D   
+D   .   .   D   .   
+.   .   .   .   .   
+.   D   D   .   D   
+D   P   .   .   D   
+Capturas: 2 | Movimientos: 180
+
+Partida 3 - tablero
+        D           
+    .       D       
+.   D   .   D   .   
+.   .   D   .   D   
+.   .   .   .   .   
+P   .   .   .   D   
+.   D   D   D   .   
+Capturas: 2 | Movimientos: 240
+
+Partida 4 - tablero
+        .           
+    .       D       
+.   D   D   .   .   
+.   D   P   D   .   
+.   .   D   .   .   
+.   D   .   .   D   
+.   .   .   D   .   
+Capturas: 3 | Movimientos: 210
+
+Partida 3 - tablero
+        .           
+    D       D       
+.   .   D   D   .   
+D   .   .   .   .   
+.   P   D   .   D   
+D   D   .   .   D   
+.   .   .   .   .   
+Capturas: 2 | Movimientos: 270
+
+Partida 4 - tablero
+        D           
+    .       .       
+D   .   .   D   .   
+.   P   .   .   D   
+D   D   .   D   .   
+.   .   .   D   .   
+.   D   .   .   .   
+Capturas: 3 | Movimientos: 240
+
+Partida 3 - tablero
+        .           
+    D       .       
+.   .   D   D   .   
+D   .   D   D   .   
+D   D   D   .   .   
+.   .   .   .   .   
+P   .   D   .   .   
+Capturas: 2 | Movimientos: 300
+
+Partida 4 - tablero
+        .           
+    D       D       
+.   .   .   .   .   
+.   .   .   D   .   
+.   .   D   .   .   
+D   P   D   D   .   
+.   D   .   .   .   
+Capturas: 4 | Movimientos: 270
+
+Partida 3 - tablero
+        .           
+    D       D       
+.   .   D   .   D   
+.   .   D   .   .   
+.   .   .   .   D   
+.   P   D   .   D   
+D   .   .   D   .   
+Capturas: 2 | Movimientos: 330
+
+Partida 4 - tablero
+        D           
+    .       .       
+.   .   D   .   .   
+.   .   .   .   D   
+.   D   D   .   .   
+.   D   .   D   .   
+.   P   D   .   .   
+Capturas: 4 | Movimientos: 300
+
+Partida 3 - tablero
+        D           
+    D       D       
+D   .   .   .   D   
+D   .   .   .   .   
+.   .   D   .   .   
+P   .   .   D   .   
+.   D   D   .   .   
+Capturas: 2 | Movimientos: 360
+
+Partida 3 - tablero
+        .           
+    .       D       
+D   .   D   .   .   
+D   D   D   D   D   
+.   .   .   .   D   
+.   P   .   .   D   
+.   .   .   .   .   
+Capturas: 2 | Movimientos: 390
+
+Partida 4 - tablero
+        D           
+    .       .       
+.   .   .   .   .   
+D   .   .   D   D   
+P   .   D   D   .   
+.   .   .   D   D   
+.   .   .   .   .   
+Capturas: 4 | Movimientos: 330
+
+Partida 3 - tablero
+        .           
+    .       D       
+D   D   .   .   .   
+.   .   .   .   D   
+D   .   D   D   .   
+.   D   D   .   D   
+.   .   P   .   .   
+Capturas: 2 | Movimientos: 420
+
+Partida 4 - tablero
+        D           
+    .       .       
+.   D   .   D   D   
+.   .   .   D   .   
+.   D   .   .   .   
+P   .   D   .   .   
+.   D   .   .   .   
+Capturas: 4 | Movimientos: 360
+
+Partida 3 - tablero
+        .           
+    .       D       
+.   D   .   .   D   
+.   .   D   D   .   
+.   D   .   .   .   
+.   P   .   .   .   
+.   D   D   D   .   
+Capturas: 3 | Movimientos: 450
+
+Partida 4 - tablero
+        .           
+    D       D       
+P   .   .   .   .   
+.   .   .   D   .   
+.   .   .   .   D   
+.   .   D   D   .   
+D   .   .   .   .   
+Capturas: 5 | Movimientos: 390
+
+Partida 3 - tablero
+        .           
+    .       .       
+D   D   .   .   D   
+D   .   D   D   .   
+.   .   .   D   .   
+.   D   .   .   .   
+.   .   P   .   .   
+Capturas: 4 | Movimientos: 480
+Partida 4: gana Puma, jugador 13 | Capturas: 6 | Movimientos: 408
+Partida 5 comienza (Puma: jugador 16, Perros: jugador 15)
+
+Partida 3 - tablero
+        .           
+    .       .       
+D   .   .   D   .   
+D   .   D   .   .   
+.   D   .   D   D   
+.   .   D   P   .   
+.   .   .   .   .   
+Capturas: 4 | Movimientos: 510
+
+Partida 5 - tablero
+        .           
+    P       .       
+.   D   .   D   .   
+.   .   .   .   D   
+D   D   .   D   D   
+.   D   .   .   D   
+D   .   D   .   D   
+Capturas: 0 | Movimientos: 30
+
+Partida 3 - tablero
+        D           
+    .       .       
+.   .   .   .   .   
+.   D   D   .   .   
+.   .   P   D   .   
+.   .   .   D   D   
+D   .   .   .   .   
+Capturas: 5 | Movimientos: 540
+
+Partida 5 - tablero
+        .           
+    P       D       
+.   D   .   D   .   
+.   D   .   .   D   
+.   .   D   D   .   
+D   D   .   .   D   
+.   .   D   D   .   
+Capturas: 0 | Movimientos: 60
+Partida 3: gana Puma, jugador 14 | Capturas: 6 | Movimientos: 559
+Partida 6 comienza (Puma: jugador 9, Perros: jugador 12)
+
+Partida 5 - tablero
+        D           
+    D       .       
+.   .   .   D   .   
+D   .   P   .   .   
+.   D   .   D   D   
+.   .   D   .   .   
+.   D   D   .   D   
+Capturas: 1 | Movimientos: 90
+
+Partida 5 - tablero
+        .           
+    .       .       
+.   D   D   D   D   
+.   .   D   .   P   
+D   .   .   .   .   
+.   D   .   D   D   
+.   .   D   .   D   
+Capturas: 1 | Movimientos: 120
+
+Partida 6 - tablero
+        .           
+    .       .       
+P   D   .   D   .   
+D   .   .   .   .   
+D   .   D   .   D   
+.   D   .   D   D   
+D   .   .   D   D   
+Capturas: 0 | Movimientos: 30
+
+Partida 6 - tablero
+        D           
+    D       .       
+.   P   .   .   .   
+.   D   .   .   D   
+.   .   .   D   .   
+D   D   D   .   D   
+D   .   .   D   .   
+Capturas: 1 | Movimientos: 60
+
+Partida 5 - tablero
+        .           
+    .       P       
+.   .   D   .   .   
+D   .   .   .   .   
+.   .   D   .   D   
+D   .   D   .   .   
+D   D   .   D   D   
+Capturas: 2 | Movimientos: 150
+
+Partida 6 - tablero
+        .           
+    .       D       
+.   .   D   .   .   
+D   .   D   D   D   
+D   P   .   .   .   
+.   D   .   D   D   
+.   .   D   .   .   
+Capturas: 1 | Movimientos: 90
+
+Partida 5 - tablero
+        .           
+    .       .       
+D   D   .   .   P   
+.   D   D   D   .   
+D   .   .   D   .   
+.   .   D   .   .   
+D   .   D   .   .   
+Capturas: 2 | Movimientos: 180
+
+Partida 6 - tablero
+        .           
+    .       .       
+.   D   .   D   .   
+D   D   D   .   .   
+.   .   .   D   D   
+P   D   .   .   D   
+D   .   D   .   .   
+Capturas: 1 | Movimientos: 120
+
+Partida 5 - tablero
+        .           
+    .       D       
+D   .   D   .   P   
+D   D   .   .   .   
+.   .   .   .   D   
+D   .   .   D   .   
+.   .   D   .   D   
+Capturas: 2 | Movimientos: 210
+
+Partida 6 - tablero
+        D           
+    D       .       
+.   .   .   .   D   
+.   .   D   .   .   
+D   .   .   .   .   
+D   D   .   D   D   
+.   .   P   D   .   
+Capturas: 2 | Movimientos: 150
+
+Partida 5 - tablero
+        .           
+    .       D       
+.   D   .   D   P   
+D   .   .   .   D   
+.   .   D   .   .   
+D   D   .   D   .   
+.   D   .   .   .   
+Capturas: 2 | Movimientos: 240
+
+Partida 6 - tablero
+        .           
+    .       .       
+D   .   .   D   D   
+.   .   D   .   .   
+.   .   .   P   D   
+D   .   D   .   .   
+.   D   .   D   .   
+Capturas: 3 | Movimientos: 180
+
+Partida 5 - tablero
+        .           
+    .       D       
+.   .   P   .   .   
+D   .   .   .   .   
+D   .   D   D   .   
+.   .   .   .   .   
+.   D   D   D   D   
+Capturas: 3 | Movimientos: 270
+
+Partida 6 - tablero
+        D           
+    D       .       
+.   .   .   .   .   
+D   .   .   D   .   
+D   .   .   .   P   
+.   D   .   .   .   
+D   .   .   .   D   
+Capturas: 4 | Movimientos: 210
+
+Partida 5 - tablero
+        D           
+    .       .       
+.   D   P   .   .   
+.   .   D   .   .   
+D   D   .   D   .   
+.   .   D   .   .   
+.   .   .   D   D   
+Capturas: 3 | Movimientos: 300
+
+Partida 6 - tablero
+        .           
+    .       D       
+D   .   P   .   .   
+.   .   D   .   .   
+D   .   .   .   D   
+.   D   D   .   .   
+.   .   D   .   .   
+Capturas: 4 | Movimientos: 240
+
+Partida 5 - tablero
+        .           
+    D       .       
+.   P   .   D   D   
+.   .   D   .   .   
+.   .   .   D   .   
+D   .   .   .   D   
+.   D   .   .   .   
+Capturas: 4 | Movimientos: 330
+
+Partida 6 - tablero
+        D           
+    .       .       
+.   .   P   .   .   
+.   D   D   .   .   
+D   .   .   D   D   
+D   D   .   .   .   
+.   .   .   .   .   
+Capturas: 4 | Movimientos: 270
+
+Partida 5 - tablero
+        D           
+    .       D       
+P   D   .   .   .   
+.   .   .   D   D   
+.   .   .   D   .   
+.   .   D   .   .   
+.   D   .   .   .   
+Capturas: 4 | Movimientos: 360
+Partida 6: gana Puma, jugador 9 | Capturas: 6 | Movimientos: 299
+Partida 7 comienza (Puma: jugador 18, Perros: jugador 2)
+
+Partida 5 - tablero
+        D           
+    D       .       
+D   .   .   D   D   
+P   .   .   .   .   
+.   .   .   .   .   
+D   .   D   .   .   
+.   .   .   D   .   
+Capturas: 4 | Movimientos: 390
+
+Partida 7 - tablero
+        .           
+    P       .       
+.   .   .   .   .   
+.   D   .   D   .   
+D   D   D   D   D   
+.   D   .   D   D   
+D   .   .   D   .   
+Capturas: 0 | Movimientos: 30
+
+Partida 5 - tablero
+        .           
+    D       D       
+P   .   D   .   D   
+D   .   .   .   .   
+D   .   .   .   .   
+D   .   .   D   .   
+.   .   .   .   .   
+Capturas: 4 | Movimientos: 420
+
+Partida 7 - tablero
+        .           
+    .       .       
+P   D   .   D   D   
+.   .   .   .   D   
+D   .   D   D   D   
+D   D   .   .   D   
+.   D   .   .   .   
+Capturas: 0 | Movimientos: 60
+
+Partida 5 - tablero
+        D           
+    .       D       
+P   .   .   D   .   
+.   .   .   .   .   
+.   .   D   D   .   
+.   .   D   D   .   
+.   .   .   .   .   
+Capturas: 5 | Movimientos: 450
+
+Partida 7 - tablero
+        .           
+    .       .       
+.   D   D   .   D   
+.   .   .   .   D   
+.   D   D   .   .   
+P   .   .   D   .   
+.   D   D   D   D   
+Capturas: 1 | Movimientos: 90
+
+Partida 7 - tablero
+        .           
+    .       .       
+.   .   .   .   .   
+D   D   .   D   .   
+P   D   .   .   D   
+D   D   D   .   .   
+.   D   .   D   D   
+Capturas: 1 | Movimientos: 120
+
+Partida 5 - tablero
+        .           
+    .       D       
+P   D   .   .   .   
+.   D   .   .   D   
+.   .   D   .   .   
+.   .   .   D   .   
+.   D   .   .   .   
+Capturas: 5 | Movimientos: 480
+
+Partida 7 - tablero
+        .           
+    .       .       
+D   .   D   .   .   
+.   D   .   .   .   
+D   D   .   D   .   
+.   .   D   .   D   
+.   P   D   D   .   
+Capturas: 2 | Movimientos: 150
+
+Partida 5 - tablero
+        .           
+    .       .       
+P   .   D   .   D   
+D   .   .   .   D   
+.   .   .   D   .   
+D   .   .   .   .   
+.   .   D   .   .   
+Capturas: 5 | Movimientos: 510
+
+Partida 7 - tablero
+        .           
+    .       D       
+.   P   D   D   .   
+.   .   .   D   D   
+D   .   D   .   .   
+.   .   .   D   .   
+.   .   .   D   .   
+Capturas: 3 | Movimientos: 180
+
+Partida 5 - tablero
+        .           
+    .       D       
+P   .   .   .   .   
+.   .   .   .   D   
+.   D   .   D   .   
+.   .   D   .   .   
+.   D   .   D   .   
+Capturas: 5 | Movimientos: 540
+
+Partida 7 - tablero
+        .           
+    .       D       
+.   .   .   .   D   
+D   .   D   P   .   
+.   D   .   .   D   
+.   .   .   .   .   
+.   .   .   D   D   
+Capturas: 4 | Movimientos: 210
+
+Partida 5 - tablero
+        P           
+    .       D       
+.   .   D   .   .   
+.   .   .   .   .   
+D   .   D   .   .   
+.   D   .   .   .   
+.   D   .   .   D   
+Capturas: 5 | Movimientos: 570
+
+Partida 7 - tablero
+        .           
+    .       .       
+.   .   D   D   .   
+D   .   .   .   .   
+.   D   D   .   .   
+.   .   D   P   D   
+.   .   .   D   .   
+Capturas: 4 | Movimientos: 240
+
+Partida 5 - tablero
+        .           
+    D       .       
+.   .   P   .   .   
+.   .   D   .   .   
+.   .   .   .   .   
+D   D   D   .   .   
+.   .   D   .   D   
+Capturas: 5 | Movimientos: 600
+
+Partida 7 - tablero
+        .           
+    D       .       
+.   D   .   .   .   
+.   .   P   .   .   
+D   .   D   .   D   
+.   .   .   D   .   
+.   .   .   .   D   
+Capturas: 5 | Movimientos: 270
+
+Partida 5 - tablero
+        .           
+    .       .       
+.   .   P   .   .   
+D   .   D   .   .   
+.   D   .   D   .   
+D   .   .   .   .   
+.   D   D   .   .   
+Capturas: 5 | Movimientos: 630
+
+Partida 7 - tablero
+        D           
+    .       .       
+.   D   D   .   .   
+.   .   D   P   D   
+.   .   .   .   .   
+.   D   .   .   .   
+.   .   .   D   .   
+Capturas: 5 | Movimientos: 300
+Partida 5: gana Puma, jugador 16 | Capturas: 6 | Movimientos: 637
+Partida 8 comienza (Puma: jugador 20, Perros: jugador 6)
+Partida 7: gana Puma, jugador 18 | Capturas: 6 | Movimientos: 308
+Partida 9 comienza (Puma: jugador 17, Perros: jugador 11)
+
+Partida 8 - tablero
+        .           
+    .       P       
+D   .   .   .   .   
+.   D   D   .   D   
+.   D   .   D   .   
+D   .   D   .   D   
+D   D   D   .   .   
+Capturas: 0 | Movimientos: 30
+
+Partida 9 - tablero
+        .           
+    .       .       
+D   D   .   D   .   
+.   .   P   D   .   
+D   .   D   .   D   
+D   .   .   D   .   
+D   .   D   .   D   
+Capturas: 0 | Movimientos: 30
+
+Partida 8 - tablero
+        P           
+    D       .       
+D   D   .   .   .   
+.   .   D   D   .   
+D   D   .   .   D   
+.   D   .   D   .   
+.   D   D   .   .   
+Capturas: 0 | Movimientos: 60
+
+Partida 9 - tablero
+        .           
+    .       .       
+P   .   .   D   D   
+.   .   .   .   D   
+.   D   .   .   D   
+D   .   D   .   .   
+D   .   D   D   .   
+Capturas: 2 | Movimientos: 60
+
+Partida 8 - tablero
+        .           
+    .       D       
+.   D   .   .   .   
+.   .   D   P   D   
+D   D   .   D   .   
+.   D   D   .   .   
+.   .   D   .   D   
+Capturas: 1 | Movimientos: 90
+
+Partida 9 - tablero
+        .           
+    .       P       
+.   .   .   .   D   
+.   .   D   D   .   
+.   D   D   D   .   
+.   D   .   D   .   
+.   .   D   .   D   
+Capturas: 2 | Movimientos: 90
+
+Partida 8 - tablero
+        D           
+    .       .       
+D   .   D   .   P   
+.   .   D   .   D   
+.   .   .   D   .   
+.   .   D   D   .   
+.   .   D   D   D   
+Capturas: 1 | Movimientos: 120
+
+Partida 9 - tablero
+        .           
+    .       .       
+D   D   .   .   .   
+.   .   .   .   .   
+.   D   D   D   .   
+.   .   .   .   .   
+.   D   D   P   D   
+Capturas: 4 | Movimientos: 120
+
+Partida 8 - tablero
+        .           
+    .       .       
+.   D   .   D   D   
+.   D   .   .   .   
+.   D   .   D   P   
+.   D   D   .   .   
+.   .   D   D   .   
+Capturas: 2 | Movimientos: 150
+
+Partida 9 - tablero
+        .           
+    .       .       
+D   D   .   .   .   
+.   D   .   D   .   
+D   .   .   .   .   
+.   .   .   .   D   
+D   .   P   D   .   
+Capturas: 4 | Movimientos: 150
+
+Partida 8 - tablero
+        D           
+    .       .       
+.   .   D   .   D   
+.   .   D   D   .   
+.   .   D   P   .   
+.   D   D   .   .   
+D   .   .   .   D   
+Capturas: 2 | Movimientos: 180
+
+Partida 9 - tablero
+        .           
+    .       .       
+.   D   D   D   .   
+D   .   .   .   .   
+D   .   .   D   .   
+.   .   D   .   P   
+D   .   .   .   .   
+Capturas: 4 | Movimientos: 180
+
+Partida 8 - tablero
+        .           
+    D       D       
+.   .   D   .   .   
+.   .   .   D   .   
+D   P   .   .   D   
+.   .   .   D   .   
+.   D   D   .   .   
+Capturas: 3 | Movimientos: 210
+
+Partida 9 - tablero
+        .           
+    .       D       
+.   D   .   .   .   
+D   D   .   .   .   
+.   .   D   .   .   
+.   .   D   .   .   
+.   D   .   P   .   
+Capturas: 5 | Movimientos: 210
+
+Partida 8 - tablero
+        P           
+    D       .       
+.   D   .   .   .   
+D   .   D   .   .   
+.   .   D   D   .   
+.   .   .   .   D   
+D   .   .   D   .   
+Capturas: 3 | Movimientos: 240
+
+Partida 8 - tablero
+        P           
+    .       .       
+D   .   .   .   .   
+.   D   .   .   .   
+D   .   .   D   .   
+.   D   D   .   D   
+D   .   .   .   .   
+Capturas: 4 | Movimientos: 270
+
+Partida 9 - tablero
+        .           
+    .       .       
+.   .   D   .   .   
+D   .   D   D   .   
+.   D   D   .   .   
+.   .   .   P   .   
+.   D   .   .   .   
+Capturas: 5 | Movimientos: 240
+
+Partida 8 - tablero
+        .           
+    .       .       
+D   P   D   D   .   
+.   .   .   .   .   
+.   D   .   .   .   
+D   .   .   D   .   
+.   D   .   .   D   
+Capturas: 4 | Movimientos: 300
+
+Partida 9 - tablero
+        D           
+    .       .       
+D   .   .   .   .   
+D   .   .   .   D   
+.   .   .   .   P   
+.   .   D   .   .   
+D   D   .   .   .   
+Capturas: 5 | Movimientos: 270
+
+Partida 8 - tablero
+        .           
+    .       D       
+.   D   P   .   .   
+.   .   .   D   .   
+.   D   .   .   .   
+.   .   .   D   .   
+D   .   .   D   .   
+Capturas: 5 | Movimientos: 330
+
+Partida 9 - tablero
+        .           
+    .       D       
+.   .   D   .   .   
+D   D   .   .   .   
+.   .   .   .   .   
+.   .   .   D   .   
+.   D   D   .   P   
+Capturas: 5 | Movimientos: 300
+Partida 8: gana Puma, jugador 20 | Capturas: 6 | Movimientos: 336
+Partida 10 comienza (Puma: jugador 3, Perros: jugador 19)
+
+Partida 9 - tablero
+        D           
+    D       .       
+.   .   .   D   .   
+.   .   .   .   D   
+.   D   .   P   .   
+.   .   .   .   D   
+.   .   D   .   .   
+Capturas: 5 | Movimientos: 330
+
+Partida 10 - tablero
+        .           
+    .       P       
+D   .   .   .   .   
+.   .   .   D   D   
+D   D   D   .   .   
+D   D   .   .   D   
+.   .   D   D   D   
+Capturas: 0 | Movimientos: 30
+
+Partida 10 - tablero
+        D           
+    .       P       
+D   D   .   .   .   
+.   .   D   D   .   
+.   D   .   .   D   
+D   .   .   D   .   
+.   D   D   .   D   
+Capturas: 0 | Movimientos: 60
+
+Partida 9 - tablero
+        .           
+    .       D       
+.   D   P   .   .   
+.   .   .   D   .   
+.   D   .   .   .   
+.   .   D   .   .   
+D   .   .   .   D   
+Capturas: 5 | Movimientos: 360
+
+Partida 10 - tablero
+        .           
+    .       D       
+D   D   P   .   .   
+.   D   D   D   .   
+D   .   .   D   D   
+.   D   .   .   .   
+D   .   .   .   D   
+Capturas: 0 | Movimientos: 90
+
+Partida 9 - tablero
+        .           
+    .       .       
+.   .   P   .   D   
+D   .   .   .   D   
+.   D   D   D   .   
+.   .   .   .   .   
+.   .   .   .   D   
+Capturas: 5 | Movimientos: 390
+
+Partida 10 - tablero
+        .           
+    P       D       
+.   D   .   .   D   
+D   .   .   .   D   
+.   .   D   D   .   
+.   D   D   .   D   
+.   D   .   D   .   
+Capturas: 0 | Movimientos: 120
+
+Partida 9 - tablero
+        .           
+    D       D       
+.   .   .   .   P   
+.   .   .   D   .   
+D   D   .   .   D   
+.   .   .   .   D   
+.   .   .   .   .   
+Capturas: 5 | Movimientos: 420
+
+Partida 10 - tablero
+        D           
+    D       .       
+.   .   D   .   P   
+.   .   .   .   D   
+D   .   D   .   .   
+.   D   D   D   D   
+D   .   .   D   .   
+Capturas: 0 | Movimientos: 150
+
+Partida 10 - tablero
+        D           
+    .       .       
+D   D   .   .   .   
+.   .   .   D   D   
+D   .   .   P   .   
+D   D   .   .   D   
+.   D   D   D   .   
+Capturas: 0 | Movimientos: 180
+Partida 9: gana Puma, jugador 17 | Capturas: 6 | Movimientos: 440
+
+Partida 10 - tablero
+        .           
+    .       D       
+.   D   .   .   D   
+.   .   D   .   D   
+D   .   .   D   .   
+D   .   .   P   .   
+.   D   D   D   D   
+Capturas: 0 | Movimientos: 210
+
+Partida 10 - tablero
+        D           
+    D       .       
+D   .   D   D   .   
+.   .   .   .   .   
+P   .   .   D   .   
+D   .   .   D   .   
+.   .   .   D   D   
+Capturas: 2 | Movimientos: 240
+
+Partida 10 - tablero
+        D           
+    P       D       
+.   D   .   .   .   
+.   D   .   D   D   
+.   .   .   .   D   
+.   D   .   D   .   
+.   D   .   .   .   
+Capturas: 2 | Movimientos: 270
+
+Partida 10 - tablero
+        P           
+    D       .       
+.   D   D   .   D   
+.   .   .   .   D   
+D   .   D   .   .   
+.   .   .   D   D   
+.   .   .   D   .   
+Capturas: 2 | Movimientos: 300
+
+Partida 10 - tablero
+        P           
+    D       .       
+.   D   .   .   D   
+.   D   D   D   .   
+.   D   .   .   .   
+.   .   .   .   D   
+.   .   D   D   .   
+Capturas: 2 | Movimientos: 330
+
+Partida 10 - tablero
+        P           
+    .       .       
+.   D   .   D   .   
+.   .   .   D   D   
+D   D   .   D   .   
+.   .   .   .   D   
+.   .   D   .   .   
+Capturas: 3 | Movimientos: 360
+
+Partida 10 - tablero
+        .           
+    .       D       
+.   .   .   .   .   
+.   P   .   .   D   
+D   .   D   D   .   
+D   .   .   .   .   
+.   D   .   D   .   
+Capturas: 4 | Movimientos: 390
+
+Partida 10 - tablero
+        P           
+    D       .       
+.   .   .   D   .   
+D   .   .   .   .   
+.   .   .   .   D   
+.   D   D   .   .   
+.   D   .   D   .   
+Capturas: 4 | Movimientos: 420
+Partida 10: gana Puma, jugador 3 | Capturas: 6 | Movimientos: 441
+
+RESUMEN DEL TORNEO
+Partidas creadas: 10
+Partidas iniciadas: 10
+Partidas completadas: 10
+Partidas interrumpidas: 0
+Partidas canceladas: 0
+Partidas con error: 0
+Torneo finalizado
+Recursos liberados

@@ -1,0 +1,16 @@
+min_ms 50
+max_ms 300
+seed 1234
+puma 0 2
+perro 5 0
+perro 5 1
+perro 5 2
+perro 5 3
+perro 5 4
+perro 6 0
+perro 6 1
+perro 6 2
+perro 6 3
+perro 6 4
+perro 4 1
+perro 4 3

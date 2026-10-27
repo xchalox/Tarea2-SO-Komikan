@@ -1,0 +1,157 @@
+Retardos: 50 a 300 ms | Seed: 1234
+Jugadores: 2 | Maximo mesas: 1
+Llego jugador 1
+Llego jugador 2
+Pareja formada: 1 y 2
+Partida 1 comienza (Puma: jugador 1, Perros: jugador 2)
+
+Partida 1 - tablero
+        .           
+    .       .       
+D   .   P   .   D   
+.   .   .   .   .   
+D   D   .   D   D   
+D   .   .   .   D   
+.   D   D   D   D   
+Capturas: 0 | Movimientos: 30
+
+Partida 1 - tablero
+        .           
+    D       .       
+.   D   .   .   D   
+.   .   P   .   .   
+D   D   .   .   .   
+D   D   D   D   D   
+.   .   D   D   .   
+Capturas: 0 | Movimientos: 60
+
+Partida 1 - tablero
+        .           
+    .       D       
+.   D   .   .   .   
+.   D   D   .   D   
+.   D   .   P   .   
+D   D   .   D   D   
+.   D   .   D   .   
+Capturas: 0 | Movimientos: 90
+
+Partida 1 - tablero
+        .           
+    .       D       
+.   D   D   .   .   
+.   D   .   D   .   
+D   .   D   .   P   
+D   .   D   .   D   
+.   D   .   .   .   
+Capturas: 1 | Movimientos: 120
+
+Partida 1 - tablero
+        D           
+    D       .       
+.   .   .   D   D   
+D   D   .   .   .   
+.   .   D   .   D   
+D   .   .   P   .   
+.   D   D   .   .   
+Capturas: 1 | Movimientos: 150
+
+Partida 1 - tablero
+        .           
+    .       D       
+D   D   .   D   .   
+D   D   .   .   .   
+.   .   .   P   .   
+D   .   D   .   D   
+.   D   .   D   .   
+Capturas: 1 | Movimientos: 180
+
+Partida 1 - tablero
+        .           
+    D       .       
+.   D   D   .   .   
+.   D   .   D   D   
+P   .   .   .   .   
+D   .   D   D   .   
+.   D   .   .   .   
+Capturas: 2 | Movimientos: 210
+
+Partida 1 - tablero
+        .           
+    .       D       
+.   D   .   D   .   
+.   .   .   .   D   
+.   .   D   D   .   
+.   P   .   .   D   
+D   .   .   .   .   
+Capturas: 4 | Movimientos: 240
+
+Partida 1 - tablero
+        .           
+    .       D       
+D   .   D   .   D   
+.   .   .   D   .   
+.   .   .   D   .   
+P   .   .   .   D   
+.   D   .   .   .   
+Capturas: 4 | Movimientos: 270
+
+Partida 1 - tablero
+        .           
+    .       D       
+.   D   .   .   D   
+.   P   .   D   D   
+D   .   .   D   .   
+.   D   .   .   .   
+.   .   .   .   .   
+Capturas: 4 | Movimientos: 300
+
+Partida 1 - tablero
+        D           
+    .       D       
+.   .   .   .   .   
+.   D   P   .   D   
+.   D   .   .   D   
+.   D   .   .   .   
+.   .   .   .   .   
+Capturas: 5 | Movimientos: 330
+
+Partida 1 - tablero
+        .           
+    .       D       
+.   .   .   D   .   
+D   .   .   .   .   
+D   .   .   P   .   
+.   .   .   .   D   
+D   .   .   D   .   
+Capturas: 5 | Movimientos: 360
+
+Partida 1 - tablero
+        .           
+    D       .       
+.   D   .   .   P   
+.   D   .   .   D   
+.   .   D   D   .   
+.   .   .   D   .   
+.   .   .   .   .   
+Capturas: 5 | Movimientos: 390
+
+Partida 1 - tablero
+        .           
+    D       .       
+.   .   .   .   D   
+.   .   D   D   .   
+.   D   .   P   .   
+.   .   .   D   .   
+.   .   .   .   D   
+Capturas: 5 | Movimientos: 420
+Partida 1: gana Puma, jugador 1 | Capturas: 6 | Movimientos: 432
+
+RESUMEN DEL TORNEO
+Partidas creadas: 1
+Partidas iniciadas: 1
+Partidas completadas: 1
+Partidas interrumpidas: 0
+Partidas canceladas: 0
+Partidas con error: 0
+Torneo finalizado
+Recursos liberados

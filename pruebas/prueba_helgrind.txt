@@ -1,0 +1,182 @@
+==11588== Helgrind, a thread error detector
+==11588== Copyright (C) 2007-2024, and GNU GPL'd, by OpenWorks LLP et al.
+==11588== Using Valgrind-3.25.1 and LibVEX; rerun with -h for copyright info
+==11588== Command: ./torneo 2 1 config.txt
+==11588== 
+Retardos: 50 a 300 ms | Seed: 1234
+Jugadores: 2 | Maximo mesas: 1
+Llego jugador 1
+Llego jugador 2
+Pareja formada: 1 y 2
+==11588== ---Thread-Announcement------------------------------------------
+==11588== 
+==11588== Thread #2 was created
+==11588==    at 0x4C821F3: clone (clone.S:76)
+==11588==    by 0x4C8236E: __clone_internal_fallback (clone-internal.c:64)
+==11588==    by 0x4C8236E: __clone_internal (clone-internal.c:109)
+==11588==    by 0x4BEE88D: create_thread (pthread_create.c:298)
+==11588==    by 0x4BEF531: pthread_create@@GLIBC_2.34 (pthread_create.c:841)
+==11588==    by 0x486D303: pthread_create_WRK (hg_intercepts.c:449)
+==11588==    by 0x400633E: main (main.cpp:780)
+==11588== 
+==11588== ---Thread-Announcement------------------------------------------
+==11588== 
+==11588== Thread #3 was created
+==11588==    at 0x4C821F3: clone (clone.S:76)
+==11588==    by 0x4C8236E: __clone_internal_fallback (clone-internal.c:64)
+==11588==    by 0x4C8236E: __clone_internal (clone-internal.c:109)
+==11588==    by 0x4BEE88D: create_thread (pthread_create.c:298)
+==11588==    by 0x4BEF531: pthread_create@@GLIBC_2.34 (pthread_create.c:841)
+==11588==    by 0x486D303: pthread_create_WRK (hg_intercepts.c:449)
+==11588==    by 0x40063F2: main (main.cpp:791)
+==11588== 
+==11588== ----------------------------------------------------------------
+==11588== 
+==11588==  Lock at 0x4050758 was first observed
+==11588==    at 0x4869C6A: mutex_lock_WRK (hg_intercepts.c:1003)
+==11588==    by 0x402734B: _dl_allocate_tls_init (dl-tls.c:619)
+==11588==    by 0x402734B: _dl_allocate_tls (dl-tls.c:716)
+==11588==    by 0x4BEFB57: allocate_stack (allocatestack.c:560)
+==11588==    by 0x4BEFB57: pthread_create@@GLIBC_2.34 (pthread_create.c:660)
+==11588==    by 0x486D303: pthread_create_WRK (hg_intercepts.c:449)
+==11588==    by 0x400633E: main (main.cpp:780)
+==11588==  Address 0x4050758 is 1880 bytes inside data symbol "_rtld_local"
+==11588== 
+==11588== Possible data race during write of size 1 at 0x62A1637 by thread #2
+==11588== Locks held: 1, at address 0x4050758
+==11588==    at 0x48750A6: mempcpy (vg_replace_strmem.c:1705)
+==11588==    by 0x40270BD: _dl_allocate_tls_init (dl-tls.c:690)
+==11588==    by 0x4BEF309: get_cached_stack (allocatestack.c:144)
+==11588==    by 0x4BEF309: allocate_stack (allocatestack.c:501)
+==11588==    by 0x4BEF309: pthread_create@@GLIBC_2.34 (pthread_create.c:660)
+==11588==    by 0x486D303: pthread_create_WRK (hg_intercepts.c:449)
+==11588==    by 0x4005D59: emparejar(void*) (main.cpp:699)
+==11588==    by 0x486D50A: mythread_wrapper (hg_intercepts.c:410)
+==11588==    by 0x4BEED63: start_thread (pthread_create.c:448)
+==11588==    by 0x4C82203: clone (clone.S:100)
+==11588==  This conflicts with a previous access by thread #3, after
+==11588==    at 0x486A3A9: mutex_unlock_WRK (hg_intercepts.c:1249)
+==11588==    by 0x4005A1C: llegarJugador(void*) (main.cpp:653)
+==11588==    by 0x486D50A: mythread_wrapper (hg_intercepts.c:410)
+==11588==    by 0x4BEED63: start_thread (pthread_create.c:448)
+==11588==    by 0x4C82203: clone (clone.S:100)
+==11588==  but before
+==11588==    (the end of the thread)
+==11588==  Address 0x62a1637 is on thread #4's stack
+==11588==  8390705 bytes below stack pointer
+==11588== 
+Partida 1 comienza (Puma: jugador 1, Perros: jugador 2)
+
+Partida 1 - tablero
+        P           
+    .       .       
+.   .   .   .   .   
+.   .   D   .   D   
+D   D   D   D   D   
+.   D   .   .   D   
+.   D   .   D   D   
+Capturas: 0 | Movimientos: 30
+
+Partida 1 - tablero
+        .           
+    .       .       
+D   .   P   .   D   
+D   .   .   D   D   
+.   .   .   D   .   
+D   D   .   D   .   
+.   D   .   D   D   
+Capturas: 0 | Movimientos: 60
+
+Partida 1 - tablero
+        .           
+    .       .       
+D   .   .   .   .   
+.   .   .   P   D   
+D   D   .   .   D   
+.   .   D   .   D   
+D   D   .   D   D   
+Capturas: 1 | Movimientos: 90
+
+Partida 1 - tablero
+        .           
+    D       .       
+.   .   P   .   .   
+D   .   D   .   D   
+.   D   .   .   D   
+D   .   D   D   .   
+.   .   .   D   D   
+Capturas: 1 | Movimientos: 120
+
+Partida 1 - tablero
+        .           
+    .       D       
+.   .   .   .   .   
+D   .   .   D   D   
+.   P   .   D   .   
+D   D   D   .   D   
+.   .   D   .   .   
+Capturas: 2 | Movimientos: 150
+
+Partida 1 - tablero
+        .           
+    .       D       
+.   .   .   .   .   
+.   .   D   .   D   
+.   P   D   .   D   
+D   .   D   D   D   
+D   .   .   .   .   
+Capturas: 2 | Movimientos: 180
+
+Partida 1 - tablero
+        .           
+    .       D       
+.   .   .   .   D   
+.   P   .   D   .   
+D   D   .   D   D   
+.   .   D   D   .   
+.   .   D   .   .   
+Capturas: 2 | Movimientos: 210
+
+Partida 1 - tablero
+        D           
+    .       .       
+.   .   D   D   .   
+.   .   D   .   .   
+.   D   .   .   .   
+.   .   P   .   D   
+.   .   D   D   D   
+Capturas: 3 | Movimientos: 240
+
+Partida 1 - tablero
+        .           
+    D       D       
+.   .   .   .   .   
+D   D   P   D   .   
+.   .   .   .   D   
+.   D   .   D   .   
+.   .   .   .   .   
+Capturas: 4 | Movimientos: 270
+
+Partida 1 - tablero
+        D           
+    .       D       
+.   D   .   .   .   
+.   .   D   .   D   
+.   .   .   D   .   
+.   .   .   .   D   
+.   P   .   .   .   
+Capturas: 5 | Movimientos: 300
+Partida 1: gana Puma, jugador 1 | Capturas: 6 | Movimientos: 325
+
+RESUMEN DEL TORNEO
+Partidas creadas: 1
+Partidas iniciadas: 1
+Partidas completadas: 1
+Partidas interrumpidas: 0
+Partidas canceladas: 0
+Partidas con error: 0
+Torneo finalizado
+Recursos liberados
+==11588== 
+==11588== For lists of detected and suppressed errors, rerun with: -s
+==11588== ERROR SUMMARY: 24 errors from 1 contexts (suppressed: 5241 from 195)
